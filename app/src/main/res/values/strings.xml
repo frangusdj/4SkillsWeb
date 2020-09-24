@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">4SkillsWeb</string>
+    <string name="promp_email">Enter e-mail</string>
+    <string name="loggin">Log In</string>
+    <string name="register">Sign Up</string>
+    <string name="developers">Learning English with ICTs™</string>
+    <string name="error_field_required">Text is empty</string>
+    <string name="error_invalid_email">Invalid e-mail</string>
+    <string name="error_invalid_password">Invalid password</string>
+    <string name="start">Let's start this adventure</string>
+    <string name="name">Enter your name</string>
+    <string name="lastname">Enter your last name</string>
+    <string name="carrer">Enter your college career</string>
+    <string name="institutional_mail">Enter your institutional mail</string>
+    <string name="promp_password">Enter your password</string>
+    <string name="repromp_password">Enter your password</string>
+    <string name="cellphone">Enter your cellphone</string>
+</resources>
